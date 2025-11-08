@@ -154,9 +154,9 @@ weather-linear-regression/
 ---
 
 ## ✨ Author
-**Your Name**  
-📧 your.email@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)
+**Arda Palas**  
+📧 ardapalas82@gmail.com
+GitHub: [@ardapalas](https://github.com/ardapalas)
 
 ---
 
